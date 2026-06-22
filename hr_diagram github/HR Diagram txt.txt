@@ -1,0 +1,69 @@
+HR Diagram Analysis
+
+Project Overview
+
+This project analyzes stellar data and visualizes the relationship between a star's temperature and luminosity using a Hertzsprung-Russell (HR) Diagram. The HR Diagram is one of the most important tools in astronomy for understanding the life cycle and classification of stars.
+
+Objective
+
+The objective of this project is to:
+
+* Clean and preprocess stellar data
+* Explore the characteristics of stars
+* Analyze relationships between temperature, luminosity, radius, and star type
+* Create an HR Diagram using Python visualization libraries
+
+Dataset
+
+The dataset contains information about stars, including:
+
+* Temperature (K)
+* Luminosity (L/Lo)
+* Radius (R/Ro)
+* Absolute Magnitude (Mv)
+* Star Type
+* Star Color
+* Spectral Class
+
+Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+Project Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. HR Diagram Creation
+6. Insights and Conclusions
+
+HR Diagram
+
+The Hertzsprung-Russell Diagram plots stellar temperature against luminosity. It helps identify different categories of stars such as:
+
+* Main Sequence Stars
+* Giants
+* Supergiants
+* White Dwarfs
+
+Results
+
+The generated HR Diagram successfully visualizes the distribution of stars and highlights the relationship between stellar temperature and luminosity.
+
+Future Improvements
+
+* Add interactive visualizations
+* Analyze larger astronomical datasets
+* Build machine learning models for star classification
+
+Author
+
+Sanjai vision
+
+Aspiring Data Scientist | Artificial Intelligence and Data Science Student
